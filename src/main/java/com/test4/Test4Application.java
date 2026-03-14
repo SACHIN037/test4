@@ -19,6 +19,7 @@ public class Test4Application {
 		boolean isSub=true;
 		char ch ='x';
 		int a =100;
+		char i = 'n';
 		SpringApplication.run(Test4Application.class, args);
 	}
 
