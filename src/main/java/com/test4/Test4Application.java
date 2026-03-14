@@ -20,6 +20,7 @@ public class Test4Application {
 		char ch ='x';
 		int a =100;
 		char i = 'n';
+		boolean isPresent = true;
 		SpringApplication.run(Test4Application.class, args);
 	}
 
