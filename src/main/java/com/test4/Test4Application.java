@@ -6,7 +6,19 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Test4Application {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
+		String name="mike";
+		int x = 100;
+		boolean idPresent=false;
+		int y = 200;
+		char x= 'a';
+		int z = 300;
+		double a = 20.3;
+		boolean idPresent = false;
+		float m = 10.3f;
+		boolean isSub=true;
+		char ch ='x';
+		int a =100;
 		SpringApplication.run(Test4Application.class, args);
 	}
 
