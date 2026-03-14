@@ -20,6 +20,7 @@ public class Test4Application {
 		char ch ='x';
 		int a =100;
 		char i = 'n';
+		double n = 303.3;
 		SpringApplication.run(Test4Application.class, args);
 	}
 
